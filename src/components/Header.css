@@ -1,0 +1,56 @@
+.home-header {
+    background-color: #ffffff;
+    padding: 1rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+
+.company_logo {
+  padding: 6px 0 6px 0;  
+}
+
+.search-input-container {
+  display: flex;
+  align-items: center;  
+  position: relative;
+}
+
+.search-input {
+  flex: 1; 
+  padding: 0.6rem 2.5rem 0.6rem 0.75rem; 
+  border: 0px;
+  border-radius: 1.5rem;
+  font-size: 1rem;
+  background-color: #f7f7f7;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.search-input:focus {
+  outline: none;
+}
+
+.search-icon {
+  position: absolute;
+  right: 1rem;
+  color: #6b7280;
+  font-size: 1rem;
+  pointer-events: none;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 0 0 1rem 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.2s ease;
+}

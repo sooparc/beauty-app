@@ -1,0 +1,25 @@
+.slideshow-container {
+  overflow: hidden;
+  width: 100%;
+  padding: 1.5rem 0;
+}
+
+.slideshow-track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  width: 100%;
+}
+
+.slide-wrapper {
+  flex: 0 0 100%;
+  padding: 0 1.5rem;
+  box-sizing: border-box;
+}
+
+.slide-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  border-radius: 1.5rem;
+}
