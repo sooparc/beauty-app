@@ -1,9 +1,30 @@
-.collection-image-container {
-    display: flex;
+.collection-container {
+    padding: 1.5rem;
 }
 
+.collection-heading {
+    padding: 1rem 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.collection-image-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.collection-item {
+    overflow: hidden;
+  }
+
 .collection-image {
-    width: 200px;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.collection-button-container {
+    display: flex;
+    gap: 5px;
 }
