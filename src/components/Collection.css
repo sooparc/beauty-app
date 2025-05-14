@@ -28,3 +28,13 @@
     display: flex;
     gap: 5px;
 }
+
+.collection-round-image {
+    margin-right: 20px;
+    border-radius: 50%;
+    width: 80px;
+}
+
+.css-m0pems-MuiListItem-root {
+    align-items: center !important;
+}

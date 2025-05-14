@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Foundation",
+      "brand": "Sephora",
+      "skinTypes": ["dry"],
+      "price": 24.99,
+      "image": "/images/foundation.png",
+      "description": "Hydrating coverage for dry skin"
+    },
+    {
+      "id": 2,
+      "name": "Sunscreen",
+      "brand": "SunMatte",
+      "skinTypes": ["oily", "acne-prone"],
+      "price": 18.00,
+      "image": "/images/sunscreen.png",
+      "description": "Oil-absorbing and SPF 50."
+    },
+    {
+      "id": 3,
+      "name": "Mascara",
+      "brand": "SunMatte",
+      "skinTypes": ["oily", "acne-prone"],
+      "price": 18.00,
+      "image": "/images/mascara.png",
+      "description": "Oil-absorbing and SPF 50."
+    },
+    {
+      "id": 4,
+      "name": "Lipgloss",
+      "brand": "SunMatte",
+      "skinTypes": ["oily", "acne-prone"],
+      "price": 18.00,
+      "image": "/images/lipgloss.png",
+      "description": "Oil-absorbing and SPF 50."
+    }
+  ]
+  

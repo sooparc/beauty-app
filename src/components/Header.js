@@ -3,7 +3,7 @@ import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import Logo from "../assets/logo.png"
-import Navbar from "../components/Navbar";
+import Navbar from "./Navbar";
 
 const Header = ({ title }) => {
   return (
