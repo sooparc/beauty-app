@@ -29,7 +29,7 @@
       "oily"
     ],
     "price": 17.84,
-    "image": "/images/foundation.png",
+    "image": "https://source.unsplash.com/featured/?foundation",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.9,
     "ingredients": [
@@ -64,7 +64,7 @@
       "oily"
     ],
     "price": 60.76,
-    "image": "/images/lipgloss.png",
+    "image": "https://source.unsplash.com/featured/?lipgloss",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.3,
     "ingredients": [
@@ -102,7 +102,7 @@
       "oily"
     ],
     "price": 33.32,
-    "image": "/images/mascara.png",
+    "image": "https://source.unsplash.com/featured/?mascara",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.7,
     "ingredients": [
@@ -894,7 +894,7 @@
       "combination"
     ],
     "price": 37.56,
-    "image": "/images/sunscreen.png",
+    "image": "https://source.unsplash.com/featured/?sunscreen",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.3,
     "ingredients": [
