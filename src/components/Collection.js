@@ -11,6 +11,7 @@ import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
+import VirtualTryOn from './VirtualTryOn';
 
 const Collection = () => {
   const [products, setProducts] = useState([]);
@@ -167,6 +168,11 @@ const Collection = () => {
                 </React.Fragment>
               ))}
           </List>
+        </div>
+
+        <div className="collection-container">
+          <div className="collection-heading">Virtual try-on</div> 
+          <VirtualTryOn />
         </div>
     </section>
   );
