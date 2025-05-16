@@ -5,11 +5,10 @@
     "brand": "Glossier",
     "productType": "Blush",
     "skinTypes": [
-      "oily",
       "dry"
     ],
     "price": 23.78,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.3,
     "ingredients": [
@@ -29,7 +28,7 @@
       "oily"
     ],
     "price": 17.84,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.9,
     "ingredients": [
@@ -47,7 +46,7 @@
       "sensitive"
     ],
     "price": 50.11,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.5,
     "ingredients": [
@@ -64,7 +63,7 @@
       "oily"
     ],
     "price": 60.76,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.3,
     "ingredients": [
@@ -83,7 +82,7 @@
       "dry"
     ],
     "price": 23.09,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.8,
     "ingredients": [
@@ -102,7 +101,7 @@
       "oily"
     ],
     "price": 33.32,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.7,
     "ingredients": [
@@ -122,7 +121,7 @@
       "dry"
     ],
     "price": 19.36,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.6,
     "ingredients": [
@@ -142,7 +141,7 @@
       "acne-prone"
     ],
     "price": 23.25,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.6,
     "ingredients": [
@@ -163,7 +162,7 @@
       "dry"
     ],
     "price": 56.02,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.1,
     "ingredients": [
@@ -182,7 +181,7 @@
       "dry"
     ],
     "price": 11.39,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.6,
     "ingredients": [
@@ -202,7 +201,7 @@
       "normal"
     ],
     "price": 18.6,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.3,
     "ingredients": [
@@ -222,7 +221,7 @@
       "dry"
     ],
     "price": 18.01,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.4,
     "ingredients": [
@@ -244,7 +243,7 @@
       "dry"
     ],
     "price": 50.66,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.0,
     "ingredients": [
@@ -266,7 +265,7 @@
       "sensitive"
     ],
     "price": 10.57,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.2,
     "ingredients": [
@@ -285,7 +284,7 @@
       "normal"
     ],
     "price": 58.52,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.4,
     "ingredients": [
@@ -306,7 +305,7 @@
       "combination"
     ],
     "price": 23.61,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.9,
     "ingredients": [
@@ -326,7 +325,7 @@
       "oily"
     ],
     "price": 58.29,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.0,
     "ingredients": [
@@ -345,7 +344,7 @@
       "normal"
     ],
     "price": 20.2,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.6,
     "ingredients": [
@@ -365,7 +364,7 @@
       "normal"
     ],
     "price": 64.63,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.2,
     "ingredients": [
@@ -384,7 +383,7 @@
       "normal"
     ],
     "price": 61.38,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.8,
     "ingredients": [
@@ -404,7 +403,7 @@
       "combination"
     ],
     "price": 32.68,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.9,
     "ingredients": [
@@ -424,7 +423,7 @@
       "sensitive"
     ],
     "price": 9.92,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 5.0,
     "ingredients": [
@@ -446,7 +445,7 @@
       "normal"
     ],
     "price": 57.84,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.1,
     "ingredients": [
@@ -465,7 +464,7 @@
       "normal"
     ],
     "price": 12.19,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.7,
     "ingredients": [
@@ -485,7 +484,7 @@
       "dry"
     ],
     "price": 64.86,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.1,
     "ingredients": [
@@ -505,7 +504,7 @@
       "dry"
     ],
     "price": 28.83,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.8,
     "ingredients": [
@@ -524,7 +523,7 @@
       "sensitive"
     ],
     "price": 9.7,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.8,
     "ingredients": [
@@ -543,7 +542,7 @@
       "oily"
     ],
     "price": 8.1,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.1,
     "ingredients": [
@@ -561,7 +560,7 @@
       "dry"
     ],
     "price": 23.22,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.7,
     "ingredients": [
@@ -583,7 +582,7 @@
       "normal"
     ],
     "price": 42.53,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.7,
     "ingredients": [
@@ -600,7 +599,7 @@
       "combination"
     ],
     "price": 25.09,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.5,
     "ingredients": [
@@ -621,7 +620,7 @@
       "acne-prone"
     ],
     "price": 14.49,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.1,
     "ingredients": [
@@ -639,7 +638,7 @@
       "acne-prone"
     ],
     "price": 55.27,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 5.0,
     "ingredients": [
@@ -659,7 +658,7 @@
       "dry"
     ],
     "price": 59.05,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.6,
     "ingredients": [
@@ -676,7 +675,7 @@
       "dry"
     ],
     "price": 52.95,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.6,
     "ingredients": [
@@ -697,7 +696,7 @@
       "oily"
     ],
     "price": 52.44,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.1,
     "ingredients": [
@@ -717,7 +716,7 @@
       "sensitive"
     ],
     "price": 15.56,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.5,
     "ingredients": [
@@ -737,7 +736,7 @@
       "dry"
     ],
     "price": 61.15,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.7,
     "ingredients": [
@@ -757,7 +756,7 @@
       "normal"
     ],
     "price": 36.82,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.2,
     "ingredients": [
@@ -774,7 +773,7 @@
       "combination"
     ],
     "price": 64.88,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.9,
     "ingredients": [
@@ -795,7 +794,7 @@
       "dry"
     ],
     "price": 46.19,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.5,
     "ingredients": [
@@ -817,7 +816,7 @@
       "combination"
     ],
     "price": 60.18,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.6,
     "ingredients": [
@@ -837,7 +836,7 @@
       "sensitive"
     ],
     "price": 13.83,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.0,
     "ingredients": [
@@ -858,7 +857,7 @@
       "sensitive"
     ],
     "price": 13.58,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.7,
     "ingredients": [
@@ -877,7 +876,7 @@
       "normal"
     ],
     "price": 56.87,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 3.7,
     "ingredients": [
@@ -894,7 +893,7 @@
       "combination"
     ],
     "price": 37.56,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.3,
     "ingredients": [
@@ -913,7 +912,7 @@
       "sensitive"
     ],
     "price": 44.69,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.8,
     "ingredients": [
@@ -933,7 +932,7 @@
       "acne-prone"
     ],
     "price": 15.75,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.2,
     "ingredients": [
@@ -953,7 +952,7 @@
       "combination"
     ],
     "price": 62.97,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.8,
     "ingredients": [
@@ -973,7 +972,7 @@
       "combination"
     ],
     "price": 28.88,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.9,
     "ingredients": [
@@ -993,7 +992,7 @@
       "dry"
     ],
     "price": 39.09,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.9,
     "ingredients": [
@@ -1014,7 +1013,7 @@
       "sensitive"
     ],
     "price": 63.4,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.5,
     "ingredients": [
@@ -1033,7 +1032,7 @@
       "combination"
     ],
     "price": 25.59,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.0,
     "ingredients": [
@@ -1050,7 +1049,7 @@
       "combination"
     ],
     "price": 18.88,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.2,
     "ingredients": [
@@ -1070,7 +1069,7 @@
       "acne-prone"
     ],
     "price": 23.66,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.4,
     "ingredients": [
@@ -1088,7 +1087,7 @@
       "oily"
     ],
     "price": 43.64,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.7,
     "ingredients": [
@@ -1106,7 +1105,7 @@
       "dry"
     ],
     "price": 25.04,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.5,
     "ingredients": [
@@ -1125,7 +1124,7 @@
       "oily"
     ],
     "price": 48.73,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.4,
     "ingredients": [
@@ -1143,7 +1142,7 @@
       "combination"
     ],
     "price": 18.35,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.9,
     "ingredients": [
@@ -1164,7 +1163,7 @@
       "normal"
     ],
     "price": 19.34,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.5,
     "ingredients": [
@@ -1181,7 +1180,7 @@
       "dry"
     ],
     "price": 12.59,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.7,
     "ingredients": [
@@ -1199,7 +1198,7 @@
       "sensitive"
     ],
     "price": 8.52,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.2,
     "ingredients": [
@@ -1220,7 +1219,7 @@
       "dry"
     ],
     "price": 36.12,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.0,
     "ingredients": [
@@ -1238,7 +1237,7 @@
       "normal"
     ],
     "price": 32.58,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.9,
     "ingredients": [
@@ -1255,7 +1254,7 @@
       "acne-prone"
     ],
     "price": 64.78,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.0,
     "ingredients": [
@@ -1274,7 +1273,7 @@
       "acne-prone"
     ],
     "price": 11.86,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 3.7,
     "ingredients": [
@@ -1294,7 +1293,7 @@
       "dry"
     ],
     "price": 19.21,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.0,
     "ingredients": [
@@ -1315,7 +1314,7 @@
       "oily"
     ],
     "price": 20.84,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.9,
     "ingredients": [
@@ -1336,7 +1335,7 @@
       "combination"
     ],
     "price": 53.66,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.7,
     "ingredients": [
@@ -1354,7 +1353,7 @@
       "normal"
     ],
     "price": 48.4,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.0,
     "ingredients": [
@@ -1374,7 +1373,7 @@
       "normal"
     ],
     "price": 64.47,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.9,
     "ingredients": [
@@ -1394,7 +1393,7 @@
       "combination"
     ],
     "price": 49.21,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.5,
     "ingredients": [
@@ -1416,7 +1415,7 @@
       "normal"
     ],
     "price": 8.31,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.7,
     "ingredients": [
@@ -1435,7 +1434,7 @@
       "oily"
     ],
     "price": 10.61,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.9,
     "ingredients": [
@@ -1455,7 +1454,7 @@
       "oily"
     ],
     "price": 19.33,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.2,
     "ingredients": [
@@ -1473,7 +1472,7 @@
       "sensitive"
     ],
     "price": 26.63,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.2,
     "ingredients": [
@@ -1492,7 +1491,7 @@
       "sensitive"
     ],
     "price": 21.23,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.3,
     "ingredients": [
@@ -1510,7 +1509,7 @@
       "combination"
     ],
     "price": 50.15,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.6,
     "ingredients": [
@@ -1528,7 +1527,7 @@
       "sensitive"
     ],
     "price": 32.55,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.1,
     "ingredients": [
@@ -1549,7 +1548,7 @@
       "normal"
     ],
     "price": 27.19,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.0,
     "ingredients": [
@@ -1567,7 +1566,7 @@
       "dry"
     ],
     "price": 8.46,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.5,
     "ingredients": [
@@ -1586,7 +1585,7 @@
       "normal"
     ],
     "price": 31.86,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 3.7,
     "ingredients": [
@@ -1603,7 +1602,7 @@
       "combination"
     ],
     "price": 59.72,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.9,
     "ingredients": [
@@ -1623,7 +1622,7 @@
       "combination"
     ],
     "price": 15.25,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.0,
     "ingredients": [
@@ -1641,7 +1640,7 @@
       "acne-prone"
     ],
     "price": 27.6,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.2,
     "ingredients": [
@@ -1661,7 +1660,7 @@
       "acne-prone"
     ],
     "price": 28.13,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.9,
     "ingredients": [
@@ -1682,7 +1681,7 @@
       "sensitive"
     ],
     "price": 47.14,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.5,
     "ingredients": [
@@ -1703,7 +1702,7 @@
       "sensitive"
     ],
     "price": 61.0,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.1,
     "ingredients": [
@@ -1723,7 +1722,7 @@
       "dry"
     ],
     "price": 45.29,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.7,
     "ingredients": [
@@ -1743,7 +1742,7 @@
       "combination"
     ],
     "price": 18.81,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.7,
     "ingredients": [
@@ -1762,7 +1761,7 @@
       "dry"
     ],
     "price": 47.31,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.7,
     "ingredients": [
@@ -1780,7 +1779,7 @@
       "oily"
     ],
     "price": 30.29,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.7,
     "ingredients": [
@@ -1798,7 +1797,7 @@
       "combination"
     ],
     "price": 55.29,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.2,
     "ingredients": [
@@ -1818,7 +1817,7 @@
       "sensitive"
     ],
     "price": 26.82,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 5.0,
     "ingredients": [
@@ -1838,7 +1837,7 @@
       "normal"
     ],
     "price": 62.65,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.9,
     "ingredients": [
@@ -1858,7 +1857,7 @@
       "combination"
     ],
     "price": 9.26,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.9,
     "ingredients": [
@@ -1878,7 +1877,7 @@
       "combination"
     ],
     "price": 32.04,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.5,
     "ingredients": [
@@ -1899,7 +1898,7 @@
       "dry"
     ],
     "price": 46.2,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.1,
     "ingredients": [
@@ -1917,7 +1916,7 @@
       "acne-prone"
     ],
     "price": 49.97,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.2,
     "ingredients": [
@@ -1934,7 +1933,7 @@
       "dry"
     ],
     "price": 52.73,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.8,
     "ingredients": [
@@ -1952,7 +1951,7 @@
       "combination"
     ],
     "price": 52.92,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.4,
     "ingredients": [
@@ -1973,7 +1972,7 @@
       "sensitive"
     ],
     "price": 38.91,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.3,
     "ingredients": [
@@ -1993,7 +1992,7 @@
       "combination"
     ],
     "price": 51.37,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.2,
     "ingredients": [
@@ -2015,7 +2014,7 @@
       "normal"
     ],
     "price": 34.37,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.9,
     "ingredients": [
@@ -2036,7 +2035,7 @@
       "normal"
     ],
     "price": 27.28,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.3,
     "ingredients": [
@@ -2054,7 +2053,7 @@
       "acne-prone"
     ],
     "price": 13.51,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.8,
     "ingredients": [
@@ -2075,7 +2074,7 @@
       "sensitive"
     ],
     "price": 23.96,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.6,
     "ingredients": [
@@ -2094,7 +2093,7 @@
       "combination"
     ],
     "price": 36.14,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.8,
     "ingredients": [
@@ -2114,7 +2113,7 @@
       "acne-prone"
     ],
     "price": 39.04,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.8,
     "ingredients": [
@@ -2132,7 +2131,7 @@
       "acne-prone"
     ],
     "price": 12.25,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.0,
     "ingredients": [
@@ -2149,7 +2148,7 @@
       "oily"
     ],
     "price": 17.04,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.8,
     "ingredients": [
@@ -2168,7 +2167,7 @@
       "acne-prone"
     ],
     "price": 54.03,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.9,
     "ingredients": [
@@ -2186,7 +2185,7 @@
       "normal"
     ],
     "price": 62.45,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.3,
     "ingredients": [
@@ -2206,7 +2205,7 @@
       "acne-prone"
     ],
     "price": 35.5,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.7,
     "ingredients": [
@@ -2225,7 +2224,7 @@
       "combination"
     ],
     "price": 43.14,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 3.7,
     "ingredients": [
@@ -2243,7 +2242,7 @@
       "oily"
     ],
     "price": 52.64,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.6,
     "ingredients": [
@@ -2264,7 +2263,7 @@
       "dry"
     ],
     "price": 38.93,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.0,
     "ingredients": [
@@ -2283,7 +2282,7 @@
       "acne-prone"
     ],
     "price": 37.39,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.8,
     "ingredients": [
@@ -2301,7 +2300,7 @@
       "dry"
     ],
     "price": 20.71,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.7,
     "ingredients": [
@@ -2319,7 +2318,7 @@
       "acne-prone"
     ],
     "price": 51.31,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.9,
     "ingredients": [
@@ -2336,7 +2335,7 @@
       "combination"
     ],
     "price": 28.26,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.1,
     "ingredients": [
@@ -2354,7 +2353,7 @@
       "oily"
     ],
     "price": 52.97,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 3.9,
     "ingredients": [
@@ -2373,7 +2372,7 @@
       "dry"
     ],
     "price": 53.63,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.4,
     "ingredients": [
@@ -2395,7 +2394,7 @@
       "sensitive"
     ],
     "price": 19.78,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 3.8,
     "ingredients": [
@@ -2412,7 +2411,7 @@
       "acne-prone"
     ],
     "price": 43.14,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.8,
     "ingredients": [
@@ -2430,7 +2429,7 @@
       "sensitive"
     ],
     "price": 23.48,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 5.0,
     "ingredients": [
@@ -2448,7 +2447,7 @@
       "combination"
     ],
     "price": 44.72,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.1,
     "ingredients": [
@@ -2470,7 +2469,7 @@
       "sensitive"
     ],
     "price": 49.62,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 3.8,
     "ingredients": [
@@ -2489,7 +2488,7 @@
       "oily"
     ],
     "price": 43.98,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.8,
     "ingredients": [
@@ -2509,7 +2508,7 @@
       "combination"
     ],
     "price": 29.36,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.7,
     "ingredients": [
@@ -2531,7 +2530,7 @@
       "dry"
     ],
     "price": 23.01,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 5.0,
     "ingredients": [
@@ -2550,7 +2549,7 @@
       "combination"
     ],
     "price": 36.52,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.7,
     "ingredients": [
@@ -2569,7 +2568,7 @@
       "normal"
     ],
     "price": 46.83,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.6,
     "ingredients": [
@@ -2587,7 +2586,7 @@
       "dry"
     ],
     "price": 14.74,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.0,
     "ingredients": [
@@ -2604,7 +2603,7 @@
       "oily"
     ],
     "price": 45.96,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.8,
     "ingredients": [
@@ -2625,7 +2624,7 @@
       "oily"
     ],
     "price": 62.94,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.4,
     "ingredients": [
@@ -2645,7 +2644,7 @@
       "oily"
     ],
     "price": 36.87,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.9,
     "ingredients": [
@@ -2667,7 +2666,7 @@
       "acne-prone"
     ],
     "price": 47.67,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.9,
     "ingredients": [
@@ -2688,7 +2687,7 @@
       "sensitive"
     ],
     "price": 59.93,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.8,
     "ingredients": [
@@ -2706,7 +2705,7 @@
       "combination"
     ],
     "price": 14.55,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 3.7,
     "ingredients": [
@@ -2724,7 +2723,7 @@
       "oily"
     ],
     "price": 8.02,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.6,
     "ingredients": [
@@ -2743,7 +2742,7 @@
       "dry"
     ],
     "price": 59.47,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.6,
     "ingredients": [
@@ -2762,7 +2761,7 @@
       "acne-prone"
     ],
     "price": 52.02,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.5,
     "ingredients": [
@@ -2781,7 +2780,7 @@
       "combination"
     ],
     "price": 57.35,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.0,
     "ingredients": [
@@ -2799,7 +2798,7 @@
       "normal"
     ],
     "price": 64.05,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.1,
     "ingredients": [
@@ -2817,7 +2816,7 @@
       "combination"
     ],
     "price": 13.56,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.6,
     "ingredients": [
@@ -2836,7 +2835,7 @@
       "acne-prone"
     ],
     "price": 32.58,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 3.9,
     "ingredients": [
@@ -2856,7 +2855,7 @@
       "combination"
     ],
     "price": 21.03,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.8,
     "ingredients": [
@@ -2874,7 +2873,7 @@
       "combination"
     ],
     "price": 27.8,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.5,
     "ingredients": [
@@ -2895,7 +2894,7 @@
       "dry"
     ],
     "price": 33.4,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.0,
     "ingredients": [
@@ -2913,7 +2912,7 @@
       "normal"
     ],
     "price": 42.18,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.8,
     "ingredients": [
@@ -2933,7 +2932,7 @@
       "combination"
     ],
     "price": 33.28,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 3.6,
     "ingredients": [
@@ -2950,7 +2949,7 @@
       "oily"
     ],
     "price": 38.44,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.3,
     "ingredients": [
@@ -2970,7 +2969,7 @@
       "combination"
     ],
     "price": 18.29,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.9,
     "ingredients": [
@@ -2989,7 +2988,7 @@
       "dry"
     ],
     "price": 35.18,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.6,
     "ingredients": [
@@ -3008,7 +3007,7 @@
       "oily"
     ],
     "price": 14.99,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.2,
     "ingredients": [
@@ -3028,7 +3027,7 @@
       "dry"
     ],
     "price": 46.9,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.8,
     "ingredients": [
@@ -3045,7 +3044,7 @@
       "combination"
     ],
     "price": 20.79,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.1,
     "ingredients": [
@@ -3065,7 +3064,7 @@
       "sensitive"
     ],
     "price": 10.21,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.7,
     "ingredients": [
@@ -3085,7 +3084,7 @@
       "combination"
     ],
     "price": 59.12,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.3,
     "ingredients": [
@@ -3104,7 +3103,7 @@
       "dry"
     ],
     "price": 30.74,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.5,
     "ingredients": [
@@ -3124,7 +3123,7 @@
       "sensitive"
     ],
     "price": 24.44,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.6,
     "ingredients": [
@@ -3145,7 +3144,7 @@
       "normal"
     ],
     "price": 38.19,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.0,
     "ingredients": [
@@ -3166,7 +3165,7 @@
       "combination"
     ],
     "price": 55.55,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.7,
     "ingredients": [
@@ -3188,7 +3187,7 @@
       "combination"
     ],
     "price": 52.86,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.8,
     "ingredients": [
@@ -3210,7 +3209,7 @@
       "sensitive"
     ],
     "price": 11.0,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.8,
     "ingredients": [
@@ -3230,7 +3229,7 @@
       "combination"
     ],
     "price": 19.57,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.1,
     "ingredients": [
@@ -3249,7 +3248,7 @@
       "normal"
     ],
     "price": 38.11,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 3.9,
     "ingredients": [
@@ -3270,7 +3269,7 @@
       "sensitive"
     ],
     "price": 52.01,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.2,
     "ingredients": [
@@ -3289,7 +3288,7 @@
       "dry"
     ],
     "price": 62.76,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.1,
     "ingredients": [
@@ -3310,7 +3309,7 @@
       "normal"
     ],
     "price": 8.74,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.2,
     "ingredients": [
@@ -3331,7 +3330,7 @@
       "acne-prone"
     ],
     "price": 45.2,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 5.0,
     "ingredients": [
@@ -3349,7 +3348,7 @@
       "oily"
     ],
     "price": 9.26,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.6,
     "ingredients": [
@@ -3371,7 +3370,7 @@
       "combination"
     ],
     "price": 39.24,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.0,
     "ingredients": [
@@ -3389,7 +3388,7 @@
       "oily"
     ],
     "price": 53.33,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.9,
     "ingredients": [
@@ -3408,7 +3407,7 @@
       "acne-prone"
     ],
     "price": 27.31,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.8,
     "ingredients": [
@@ -3425,7 +3424,7 @@
       "oily"
     ],
     "price": 41.98,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.4,
     "ingredients": [
@@ -3444,7 +3443,7 @@
       "oily"
     ],
     "price": 45.51,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.4,
     "ingredients": [
@@ -3464,7 +3463,7 @@
       "sensitive"
     ],
     "price": 21.47,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.0,
     "ingredients": [
@@ -3482,7 +3481,7 @@
       "combination"
     ],
     "price": 25.45,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.9,
     "ingredients": [
@@ -3500,7 +3499,7 @@
       "oily"
     ],
     "price": 24.85,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 3.6,
     "ingredients": [
@@ -3519,7 +3518,7 @@
       "dry"
     ],
     "price": 31.44,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.7,
     "ingredients": [
@@ -3539,7 +3538,7 @@
       "acne-prone"
     ],
     "price": 32.98,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.6,
     "ingredients": [
@@ -3559,7 +3558,7 @@
       "dry"
     ],
     "price": 46.98,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.6,
     "ingredients": [
@@ -3576,7 +3575,7 @@
       "acne-prone"
     ],
     "price": 24.42,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.2,
     "ingredients": [
@@ -3594,7 +3593,7 @@
       "sensitive"
     ],
     "price": 33.05,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 3.7,
     "ingredients": [
@@ -3614,7 +3613,7 @@
       "oily"
     ],
     "price": 10.5,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.7,
     "ingredients": [
@@ -3633,7 +3632,7 @@
       "dry"
     ],
     "price": 31.17,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.5,
     "ingredients": [
@@ -3652,7 +3651,7 @@
       "combination"
     ],
     "price": 38.68,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.2,
     "ingredients": [
@@ -3671,7 +3670,7 @@
       "sensitive"
     ],
     "price": 46.04,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 3.7,
     "ingredients": [
@@ -3691,7 +3690,7 @@
       "acne-prone"
     ],
     "price": 31.46,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.3,
     "ingredients": [
@@ -3709,7 +3708,7 @@
       "normal"
     ],
     "price": 12.96,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.9,
     "ingredients": [
@@ -3729,7 +3728,7 @@
       "normal"
     ],
     "price": 10.56,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.8,
     "ingredients": [
@@ -3749,7 +3748,7 @@
       "dry"
     ],
     "price": 36.06,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.5,
     "ingredients": [
@@ -3768,7 +3767,7 @@
       "dry"
     ],
     "price": 45.51,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.0,
     "ingredients": [
@@ -3789,7 +3788,7 @@
       "combination"
     ],
     "price": 53.42,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.5,
     "ingredients": [
@@ -3809,7 +3808,7 @@
       "dry"
     ],
     "price": 37.02,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.8,
     "ingredients": [
@@ -3829,7 +3828,7 @@
       "oily"
     ],
     "price": 8.52,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 5.0,
     "ingredients": [
@@ -3846,7 +3845,7 @@
       "combination"
     ],
     "price": 40.14,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.8,
     "ingredients": [
@@ -3867,7 +3866,7 @@
       "normal"
     ],
     "price": 8.3,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.9,
     "ingredients": [
@@ -3888,7 +3887,7 @@
       "combination"
     ],
     "price": 21.93,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.5,
     "ingredients": [
@@ -3908,7 +3907,7 @@
       "combination"
     ],
     "price": 9.97,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.5,
     "ingredients": [
@@ -3925,7 +3924,7 @@
       "oily"
     ],
     "price": 28.63,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.1,
     "ingredients": [
@@ -3944,7 +3943,7 @@
       "dry"
     ],
     "price": 41.59,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.7,
     "ingredients": [
@@ -3965,7 +3964,7 @@
       "acne-prone"
     ],
     "price": 9.67,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.5,
     "ingredients": [
@@ -3987,7 +3986,7 @@
       "acne-prone"
     ],
     "price": 59.72,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.4,
     "ingredients": [
@@ -4007,7 +4006,7 @@
       "normal"
     ],
     "price": 14.5,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.4,
     "ingredients": [
@@ -4026,7 +4025,7 @@
       "oily"
     ],
     "price": 61.58,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.5,
     "ingredients": [
@@ -4044,7 +4043,7 @@
       "normal"
     ],
     "price": 52.29,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.9,
     "ingredients": [
@@ -4063,7 +4062,7 @@
       "normal"
     ],
     "price": 18.39,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.9,
     "ingredients": [
@@ -4081,7 +4080,7 @@
       "normal"
     ],
     "price": 58.61,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.6,
     "ingredients": [
@@ -4100,7 +4099,7 @@
       "acne-prone"
     ],
     "price": 8.42,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 3.6,
     "ingredients": [
@@ -4120,7 +4119,7 @@
       "sensitive"
     ],
     "price": 33.37,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.3,
     "ingredients": [
@@ -4141,7 +4140,7 @@
       "combination"
     ],
     "price": 46.07,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.8,
     "ingredients": [
@@ -4159,7 +4158,7 @@
       "combination"
     ],
     "price": 20.2,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.6,
     "ingredients": [
@@ -4179,7 +4178,7 @@
       "oily"
     ],
     "price": 28.41,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.6,
     "ingredients": [
@@ -4200,7 +4199,7 @@
       "oily"
     ],
     "price": 64.48,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.5,
     "ingredients": [
@@ -4220,7 +4219,7 @@
       "oily"
     ],
     "price": 12.48,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.4,
     "ingredients": [
@@ -4238,7 +4237,7 @@
       "sensitive"
     ],
     "price": 32.44,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.7,
     "ingredients": [
@@ -4257,7 +4256,7 @@
       "normal"
     ],
     "price": 35.62,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.3,
     "ingredients": [
@@ -4276,7 +4275,7 @@
       "dry"
     ],
     "price": 58.32,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.3,
     "ingredients": [
@@ -4296,7 +4295,7 @@
       "acne-prone"
     ],
     "price": 25.76,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.8,
     "ingredients": [
@@ -4317,7 +4316,7 @@
       "oily"
     ],
     "price": 10.13,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.0,
     "ingredients": [
@@ -4336,7 +4335,7 @@
       "combination"
     ],
     "price": 17.83,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 3.8,
     "ingredients": [
@@ -4355,7 +4354,7 @@
       "sensitive"
     ],
     "price": 16.63,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.8,
     "ingredients": [
@@ -4375,7 +4374,7 @@
       "oily"
     ],
     "price": 24.47,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.9,
     "ingredients": [
@@ -4395,7 +4394,7 @@
       "normal"
     ],
     "price": 60.58,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.0,
     "ingredients": [
@@ -4413,7 +4412,7 @@
       "combination"
     ],
     "price": 49.76,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.8,
     "ingredients": [
@@ -4431,7 +4430,7 @@
       "sensitive"
     ],
     "price": 49.4,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.5,
     "ingredients": [
@@ -4453,7 +4452,7 @@
       "oily"
     ],
     "price": 40.84,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.2,
     "ingredients": [
@@ -4475,7 +4474,7 @@
       "sensitive"
     ],
     "price": 52.69,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.0,
     "ingredients": [
@@ -4496,7 +4495,7 @@
       "dry"
     ],
     "price": 30.36,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.5,
     "ingredients": [
@@ -4517,7 +4516,7 @@
       "combination"
     ],
     "price": 18.55,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.1,
     "ingredients": [
@@ -4539,7 +4538,7 @@
       "dry"
     ],
     "price": 18.15,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.9,
     "ingredients": [
@@ -4559,7 +4558,7 @@
       "dry"
     ],
     "price": 27.45,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.2,
     "ingredients": [
@@ -4579,7 +4578,7 @@
       "sensitive"
     ],
     "price": 22.58,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 5.0,
     "ingredients": [
@@ -4600,7 +4599,7 @@
       "oily"
     ],
     "price": 56.79,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 5.0,
     "ingredients": [
@@ -4620,7 +4619,7 @@
       "normal"
     ],
     "price": 29.64,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.6,
     "ingredients": [
@@ -4640,7 +4639,7 @@
       "oily"
     ],
     "price": 44.72,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.9,
     "ingredients": [
@@ -4659,7 +4658,7 @@
       "dry"
     ],
     "price": 30.45,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 5.0,
     "ingredients": [
@@ -4679,7 +4678,7 @@
       "acne-prone"
     ],
     "price": 51.39,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.8,
     "ingredients": [
@@ -4699,7 +4698,7 @@
       "normal"
     ],
     "price": 50.6,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.8,
     "ingredients": [
@@ -4719,7 +4718,7 @@
       "normal"
     ],
     "price": 63.92,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.9,
     "ingredients": [
@@ -4739,7 +4738,7 @@
       "normal"
     ],
     "price": 21.32,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.6,
     "ingredients": [
@@ -4759,7 +4758,7 @@
       "combination"
     ],
     "price": 14.97,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.4,
     "ingredients": [
@@ -4779,7 +4778,7 @@
       "dry"
     ],
     "price": 31.11,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.1,
     "ingredients": [
@@ -4798,7 +4797,7 @@
       "dry"
     ],
     "price": 53.95,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.5,
     "ingredients": [
@@ -4818,7 +4817,7 @@
       "normal"
     ],
     "price": 17.35,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.5,
     "ingredients": [
@@ -4840,7 +4839,7 @@
       "acne-prone"
     ],
     "price": 33.78,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.0,
     "ingredients": [
@@ -4858,7 +4857,7 @@
       "oily"
     ],
     "price": 12.33,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.8,
     "ingredients": [
@@ -4879,7 +4878,7 @@
       "sensitive"
     ],
     "price": 26.5,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.6,
     "ingredients": [
@@ -4897,7 +4896,7 @@
       "acne-prone"
     ],
     "price": 56.6,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.4,
     "ingredients": [
@@ -4917,7 +4916,7 @@
       "oily"
     ],
     "price": 12.63,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.1,
     "ingredients": [
@@ -4935,7 +4934,7 @@
       "oily"
     ],
     "price": 47.98,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.3,
     "ingredients": [
@@ -4954,7 +4953,7 @@
       "combination"
     ],
     "price": 31.61,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.9,
     "ingredients": [
@@ -4972,7 +4971,7 @@
       "combination"
     ],
     "price": 11.31,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.8,
     "ingredients": [
@@ -4994,7 +4993,7 @@
       "normal"
     ],
     "price": 29.24,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.1,
     "ingredients": [
@@ -5011,7 +5010,7 @@
       "acne-prone"
     ],
     "price": 52.17,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.7,
     "ingredients": [
@@ -5031,7 +5030,7 @@
       "acne-prone"
     ],
     "price": 46.87,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.5,
     "ingredients": [
@@ -5051,7 +5050,7 @@
       "sensitive"
     ],
     "price": 25.28,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.6,
     "ingredients": [
@@ -5070,7 +5069,7 @@
       "oily"
     ],
     "price": 15.07,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.6,
     "ingredients": [
@@ -5091,7 +5090,7 @@
       "oily"
     ],
     "price": 30.72,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.6,
     "ingredients": [
@@ -5111,7 +5110,7 @@
       "combination"
     ],
     "price": 56.39,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.8,
     "ingredients": [
@@ -5130,7 +5129,7 @@
       "dry"
     ],
     "price": 47.11,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.9,
     "ingredients": [
@@ -5149,7 +5148,7 @@
       "dry"
     ],
     "price": 12.06,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.9,
     "ingredients": [
@@ -5169,7 +5168,7 @@
       "acne-prone"
     ],
     "price": 19.91,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 3.8,
     "ingredients": [
@@ -5190,7 +5189,7 @@
       "normal"
     ],
     "price": 8.81,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.0,
     "ingredients": [
@@ -5208,7 +5207,7 @@
       "acne-prone"
     ],
     "price": 27.01,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 3.5,
     "ingredients": [
@@ -5226,7 +5225,7 @@
       "sensitive"
     ],
     "price": 20.0,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.5,
     "ingredients": [
@@ -5247,7 +5246,7 @@
       "normal"
     ],
     "price": 40.49,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.0,
     "ingredients": [
@@ -5268,7 +5267,7 @@
       "combination"
     ],
     "price": 24.35,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.8,
     "ingredients": [
@@ -5288,7 +5287,7 @@
       "dry"
     ],
     "price": 28.44,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.7,
     "ingredients": [
@@ -5308,7 +5307,7 @@
       "oily"
     ],
     "price": 34.85,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.5,
     "ingredients": [
@@ -5327,7 +5326,7 @@
       "dry"
     ],
     "price": 34.5,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.9,
     "ingredients": [
@@ -5346,7 +5345,7 @@
       "dry"
     ],
     "price": 56.89,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.1,
     "ingredients": [
@@ -5367,7 +5366,7 @@
       "acne-prone"
     ],
     "price": 22.65,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.9,
     "ingredients": [
@@ -5385,7 +5384,7 @@
       "oily"
     ],
     "price": 15.99,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.3,
     "ingredients": [
@@ -5404,7 +5403,7 @@
       "dry"
     ],
     "price": 32.05,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.7,
     "ingredients": [
@@ -5422,7 +5421,7 @@
       "acne-prone"
     ],
     "price": 56.48,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.8,
     "ingredients": [
@@ -5441,7 +5440,7 @@
       "dry"
     ],
     "price": 23.94,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.3,
     "ingredients": [
@@ -5462,7 +5461,7 @@
       "normal"
     ],
     "price": 14.67,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.9,
     "ingredients": [
@@ -5483,7 +5482,7 @@
       "dry"
     ],
     "price": 63.68,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.5,
     "ingredients": [
@@ -5504,7 +5503,7 @@
       "oily"
     ],
     "price": 17.0,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.7,
     "ingredients": [
@@ -5522,7 +5521,7 @@
       "normal"
     ],
     "price": 48.71,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 3.8,
     "ingredients": [
@@ -5542,7 +5541,7 @@
       "dry"
     ],
     "price": 34.37,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.9,
     "ingredients": [
@@ -5561,7 +5560,7 @@
       "sensitive"
     ],
     "price": 62.38,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.7,
     "ingredients": [
@@ -5578,7 +5577,7 @@
       "oily"
     ],
     "price": 14.0,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.8,
     "ingredients": [
@@ -5597,7 +5596,7 @@
       "normal"
     ],
     "price": 52.83,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.3,
     "ingredients": [
@@ -5618,7 +5617,7 @@
       "acne-prone"
     ],
     "price": 52.16,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.6,
     "ingredients": [
@@ -5639,7 +5638,7 @@
       "sensitive"
     ],
     "price": 45.43,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.6,
     "ingredients": [
@@ -5659,7 +5658,7 @@
       "normal"
     ],
     "price": 49.35,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.1,
     "ingredients": [
@@ -5676,7 +5675,7 @@
       "acne-prone"
     ],
     "price": 30.7,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.8,
     "ingredients": [
@@ -5695,7 +5694,7 @@
       "combination"
     ],
     "price": 21.53,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.9,
     "ingredients": [
@@ -5715,7 +5714,7 @@
       "combination"
     ],
     "price": 45.87,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.2,
     "ingredients": [
@@ -5737,7 +5736,7 @@
       "acne-prone"
     ],
     "price": 25.09,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.2,
     "ingredients": [
@@ -5759,7 +5758,7 @@
       "combination"
     ],
     "price": 18.59,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 3.7,
     "ingredients": [
@@ -5780,7 +5779,7 @@
       "normal"
     ],
     "price": 19.19,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.1,
     "ingredients": [
@@ -5797,7 +5796,7 @@
       "sensitive"
     ],
     "price": 45.67,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.6,
     "ingredients": [
@@ -5817,7 +5816,7 @@
       "oily"
     ],
     "price": 19.11,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.6,
     "ingredients": [
@@ -5836,7 +5835,7 @@
       "combination"
     ],
     "price": 22.81,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.6,
     "ingredients": [
@@ -5854,7 +5853,7 @@
       "dry"
     ],
     "price": 52.19,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.7,
     "ingredients": [
@@ -5874,7 +5873,7 @@
       "acne-prone"
     ],
     "price": 57.95,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.5,
     "ingredients": [
@@ -5893,7 +5892,7 @@
       "dry"
     ],
     "price": 34.91,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.7,
     "ingredients": [
@@ -5913,7 +5912,7 @@
       "sensitive"
     ],
     "price": 29.28,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.6,
     "ingredients": [
@@ -5933,7 +5932,7 @@
       "combination"
     ],
     "price": 25.05,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.6,
     "ingredients": [
@@ -5951,7 +5950,7 @@
       "acne-prone"
     ],
     "price": 40.43,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 3.7,
     "ingredients": [
@@ -5971,7 +5970,7 @@
       "sensitive"
     ],
     "price": 11.7,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.8,
     "ingredients": [
@@ -5989,7 +5988,7 @@
       "acne-prone"
     ],
     "price": 50.78,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.1,
     "ingredients": [
@@ -6009,7 +6008,7 @@
       "oily"
     ],
     "price": 19.39,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.0,
     "ingredients": [
@@ -6029,7 +6028,7 @@
       "oily"
     ],
     "price": 63.87,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.0,
     "ingredients": [
@@ -6048,7 +6047,7 @@
       "sensitive"
     ],
     "price": 33.93,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.9,
     "ingredients": [
@@ -6068,7 +6067,7 @@
       "dry"
     ],
     "price": 24.62,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.3,
     "ingredients": [
@@ -6087,7 +6086,7 @@
       "dry"
     ],
     "price": 21.38,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.5,
     "ingredients": [
@@ -6105,7 +6104,7 @@
       "combination"
     ],
     "price": 32.44,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.1,
     "ingredients": [
@@ -6127,7 +6126,7 @@
       "dry"
     ],
     "price": 15.46,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.2,
     "ingredients": [
@@ -6146,7 +6145,7 @@
       "oily"
     ],
     "price": 26.48,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.1,
     "ingredients": [
@@ -6165,7 +6164,7 @@
       "sensitive"
     ],
     "price": 26.9,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.1,
     "ingredients": [
@@ -6184,7 +6183,7 @@
       "acne-prone"
     ],
     "price": 35.79,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.0,
     "ingredients": [
@@ -6202,7 +6201,7 @@
       "normal"
     ],
     "price": 17.18,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.1,
     "ingredients": [
@@ -6221,7 +6220,7 @@
       "dry"
     ],
     "price": 49.11,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.6,
     "ingredients": [
@@ -6241,7 +6240,7 @@
       "normal"
     ],
     "price": 63.71,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.1,
     "ingredients": [
@@ -6263,7 +6262,7 @@
       "dry"
     ],
     "price": 8.32,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.9,
     "ingredients": [
@@ -6282,7 +6281,7 @@
       "normal"
     ],
     "price": 27.91,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.4,
     "ingredients": [
@@ -6301,7 +6300,7 @@
       "sensitive"
     ],
     "price": 20.68,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.9,
     "ingredients": [
@@ -6320,7 +6319,7 @@
       "acne-prone"
     ],
     "price": 38.33,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.7,
     "ingredients": [
@@ -6340,7 +6339,7 @@
       "normal"
     ],
     "price": 16.07,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.6,
     "ingredients": [
@@ -6361,7 +6360,7 @@
       "oily"
     ],
     "price": 27.51,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 3.5,
     "ingredients": [
@@ -6380,7 +6379,7 @@
       "oily"
     ],
     "price": 60.79,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.9,
     "ingredients": [
@@ -6400,7 +6399,7 @@
       "normal"
     ],
     "price": 33.13,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.8,
     "ingredients": [
@@ -6422,7 +6421,7 @@
       "dry"
     ],
     "price": 27.54,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.2,
     "ingredients": [
@@ -6442,7 +6441,7 @@
       "dry"
     ],
     "price": 55.92,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 5.0,
     "ingredients": [
@@ -6461,7 +6460,7 @@
       "sensitive"
     ],
     "price": 22.95,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.1,
     "ingredients": [
@@ -6479,7 +6478,7 @@
       "acne-prone"
     ],
     "price": 18.85,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.7,
     "ingredients": [
@@ -6500,7 +6499,7 @@
       "sensitive"
     ],
     "price": 34.26,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.9,
     "ingredients": [
@@ -6519,7 +6518,7 @@
       "sensitive"
     ],
     "price": 53.56,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.8,
     "ingredients": [
@@ -6539,7 +6538,7 @@
       "normal"
     ],
     "price": 19.67,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.8,
     "ingredients": [
@@ -6559,7 +6558,7 @@
       "acne-prone"
     ],
     "price": 51.15,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.9,
     "ingredients": [
@@ -6581,7 +6580,7 @@
       "sensitive"
     ],
     "price": 21.04,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.8,
     "ingredients": [
@@ -6599,7 +6598,7 @@
       "dry"
     ],
     "price": 60.7,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 5.0,
     "ingredients": [
@@ -6618,7 +6617,7 @@
       "normal"
     ],
     "price": 59.33,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 3.5,
     "ingredients": [
@@ -6637,7 +6636,7 @@
       "combination"
     ],
     "price": 11.05,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.7,
     "ingredients": [
@@ -6657,7 +6656,7 @@
       "sensitive"
     ],
     "price": 17.72,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 3.7,
     "ingredients": [
@@ -6674,7 +6673,7 @@
       "dry"
     ],
     "price": 15.83,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.8,
     "ingredients": [
@@ -6693,7 +6692,7 @@
       "sensitive"
     ],
     "price": 57.84,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.1,
     "ingredients": [
@@ -6713,7 +6712,7 @@
       "dry"
     ],
     "price": 39.1,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.9,
     "ingredients": [
@@ -6730,7 +6729,7 @@
       "acne-prone"
     ],
     "price": 52.64,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.6,
     "ingredients": [
@@ -6750,7 +6749,7 @@
       "oily"
     ],
     "price": 54.48,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.8,
     "ingredients": [
@@ -6770,7 +6769,7 @@
       "sensitive"
     ],
     "price": 23.6,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.9,
     "ingredients": [
@@ -6790,7 +6789,7 @@
       "acne-prone"
     ],
     "price": 59.88,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.5,
     "ingredients": [
@@ -6811,7 +6810,7 @@
       "acne-prone"
     ],
     "price": 29.7,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.7,
     "ingredients": [
@@ -6828,7 +6827,7 @@
       "dry"
     ],
     "price": 59.96,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.2,
     "ingredients": [
@@ -6848,7 +6847,7 @@
       "combination"
     ],
     "price": 45.55,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.7,
     "ingredients": [
@@ -6867,7 +6866,7 @@
       "dry"
     ],
     "price": 12.01,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.0,
     "ingredients": [
@@ -6886,7 +6885,7 @@
       "oily"
     ],
     "price": 38.72,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.8,
     "ingredients": [
@@ -6905,7 +6904,7 @@
       "dry"
     ],
     "price": 24.86,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.9,
     "ingredients": [
@@ -6924,7 +6923,7 @@
       "acne-prone"
     ],
     "price": 46.05,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.7,
     "ingredients": [
@@ -6944,7 +6943,7 @@
       "normal"
     ],
     "price": 15.02,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.7,
     "ingredients": [
@@ -6964,7 +6963,7 @@
       "oily"
     ],
     "price": 27.21,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.1,
     "ingredients": [
@@ -6985,7 +6984,7 @@
       "normal"
     ],
     "price": 52.64,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.5,
     "ingredients": [
@@ -7002,7 +7001,7 @@
       "dry"
     ],
     "price": 35.21,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.2,
     "ingredients": [
@@ -7021,7 +7020,7 @@
       "acne-prone"
     ],
     "price": 13.83,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.7,
     "ingredients": [
@@ -7041,7 +7040,7 @@
       "normal"
     ],
     "price": 18.63,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 3.5,
     "ingredients": [
@@ -7059,7 +7058,7 @@
       "normal"
     ],
     "price": 52.21,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.0,
     "ingredients": [
@@ -7078,7 +7077,7 @@
       "oily"
     ],
     "price": 18.45,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.6,
     "ingredients": [
@@ -7099,7 +7098,7 @@
       "sensitive"
     ],
     "price": 49.53,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.0,
     "ingredients": [
@@ -7119,7 +7118,7 @@
       "sensitive"
     ],
     "price": 21.05,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.6,
     "ingredients": [
@@ -7139,7 +7138,7 @@
       "dry"
     ],
     "price": 32.59,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.3,
     "ingredients": [
@@ -7159,7 +7158,7 @@
       "sensitive"
     ],
     "price": 46.4,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.7,
     "ingredients": [
@@ -7176,7 +7175,7 @@
       "oily"
     ],
     "price": 38.37,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.6,
     "ingredients": [
@@ -7196,7 +7195,7 @@
       "acne-prone"
     ],
     "price": 44.86,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.7,
     "ingredients": [
@@ -7214,7 +7213,7 @@
       "sensitive"
     ],
     "price": 52.81,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.8,
     "ingredients": [
@@ -7231,7 +7230,7 @@
       "combination"
     ],
     "price": 41.6,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.4,
     "ingredients": [
@@ -7252,7 +7251,7 @@
       "oily"
     ],
     "price": 41.71,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.6,
     "ingredients": [
@@ -7269,7 +7268,7 @@
       "oily"
     ],
     "price": 12.67,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.8,
     "ingredients": [
@@ -7288,7 +7287,7 @@
       "acne-prone"
     ],
     "price": 37.49,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.5,
     "ingredients": [
@@ -7307,7 +7306,7 @@
       "sensitive"
     ],
     "price": 25.76,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.5,
     "ingredients": [
@@ -7326,7 +7325,7 @@
       "sensitive"
     ],
     "price": 42.3,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.3,
     "ingredients": [
@@ -7345,7 +7344,7 @@
       "acne-prone"
     ],
     "price": 15.0,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.1,
     "ingredients": [
@@ -7365,7 +7364,7 @@
       "sensitive"
     ],
     "price": 49.24,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.0,
     "ingredients": [
@@ -7383,7 +7382,7 @@
       "normal"
     ],
     "price": 60.8,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.9,
     "ingredients": [
@@ -7404,7 +7403,7 @@
       "sensitive"
     ],
     "price": 31.03,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.9,
     "ingredients": [
@@ -7424,7 +7423,7 @@
       "sensitive"
     ],
     "price": 29.25,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.3,
     "ingredients": [
@@ -7444,7 +7443,7 @@
       "normal"
     ],
     "price": 21.11,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.7,
     "ingredients": [
@@ -7461,7 +7460,7 @@
       "combination"
     ],
     "price": 23.74,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.5,
     "ingredients": [
@@ -7482,7 +7481,7 @@
       "sensitive"
     ],
     "price": 53.25,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.3,
     "ingredients": [
@@ -7501,7 +7500,7 @@
       "normal"
     ],
     "price": 37.72,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.4,
     "ingredients": [
@@ -7521,7 +7520,7 @@
       "combination"
     ],
     "price": 29.0,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.1,
     "ingredients": [
@@ -7539,7 +7538,7 @@
       "dry"
     ],
     "price": 35.45,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.5,
     "ingredients": [
@@ -7558,7 +7557,7 @@
       "acne-prone"
     ],
     "price": 46.16,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.7,
     "ingredients": [
@@ -7576,7 +7575,7 @@
       "oily"
     ],
     "price": 59.91,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 3.8,
     "ingredients": [
@@ -7595,7 +7594,7 @@
       "sensitive"
     ],
     "price": 46.23,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 3.9,
     "ingredients": [
@@ -7615,7 +7614,7 @@
       "combination"
     ],
     "price": 35.38,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.2,
     "ingredients": [
@@ -7637,7 +7636,7 @@
       "sensitive"
     ],
     "price": 25.34,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.7,
     "ingredients": [
@@ -7655,7 +7654,7 @@
       "normal"
     ],
     "price": 39.33,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.7,
     "ingredients": [
@@ -7674,7 +7673,7 @@
       "normal"
     ],
     "price": 29.46,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.6,
     "ingredients": [
@@ -7694,7 +7693,7 @@
       "oily"
     ],
     "price": 39.92,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.8,
     "ingredients": [
@@ -7712,7 +7711,7 @@
       "sensitive"
     ],
     "price": 48.78,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.3,
     "ingredients": [
@@ -7731,7 +7730,7 @@
       "sensitive"
     ],
     "price": 21.82,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.5,
     "ingredients": [
@@ -7748,7 +7747,7 @@
       "acne-prone"
     ],
     "price": 51.97,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.5,
     "ingredients": [
@@ -7770,7 +7769,7 @@
       "oily"
     ],
     "price": 33.49,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.4,
     "ingredients": [
@@ -7789,7 +7788,7 @@
       "combination"
     ],
     "price": 25.67,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.0,
     "ingredients": [
@@ -7807,7 +7806,7 @@
       "combination"
     ],
     "price": 22.91,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.7,
     "ingredients": [
@@ -7827,7 +7826,7 @@
       "dry"
     ],
     "price": 48.22,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 5.0,
     "ingredients": [
@@ -7847,7 +7846,7 @@
       "sensitive"
     ],
     "price": 47.9,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.2,
     "ingredients": [
@@ -7868,7 +7867,7 @@
       "oily"
     ],
     "price": 34.13,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.4,
     "ingredients": [
@@ -7889,7 +7888,7 @@
       "oily"
     ],
     "price": 29.31,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.7,
     "ingredients": [
@@ -7911,7 +7910,7 @@
       "dry"
     ],
     "price": 36.98,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.3,
     "ingredients": [
@@ -7933,7 +7932,7 @@
       "normal"
     ],
     "price": 48.62,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.8,
     "ingredients": [
@@ -7951,7 +7950,7 @@
       "combination"
     ],
     "price": 44.8,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.5,
     "ingredients": [
@@ -7970,7 +7969,7 @@
       "dry"
     ],
     "price": 39.75,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 3.7,
     "ingredients": [
@@ -7989,7 +7988,7 @@
       "sensitive"
     ],
     "price": 47.28,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 3.6,
     "ingredients": [
@@ -8008,7 +8007,7 @@
       "acne-prone"
     ],
     "price": 24.98,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.7,
     "ingredients": [
@@ -8029,7 +8028,7 @@
       "oily"
     ],
     "price": 17.9,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 3.7,
     "ingredients": [
@@ -8049,7 +8048,7 @@
       "normal"
     ],
     "price": 40.1,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.7,
     "ingredients": [
@@ -8070,7 +8069,7 @@
       "normal"
     ],
     "price": 60.1,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.8,
     "ingredients": [
@@ -8087,7 +8086,7 @@
       "dry"
     ],
     "price": 49.76,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 3.7,
     "ingredients": [
@@ -8104,7 +8103,7 @@
       "dry"
     ],
     "price": 18.06,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 3.5,
     "ingredients": [
@@ -8122,7 +8121,7 @@
       "normal"
     ],
     "price": 36.71,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.0,
     "ingredients": [
@@ -8141,7 +8140,7 @@
       "acne-prone"
     ],
     "price": 36.7,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.6,
     "ingredients": [
@@ -8162,7 +8161,7 @@
       "normal"
     ],
     "price": 35.35,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.8,
     "ingredients": [
@@ -8180,7 +8179,7 @@
       "sensitive"
     ],
     "price": 59.15,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.9,
     "ingredients": [
@@ -8198,7 +8197,7 @@
       "oily"
     ],
     "price": 57.33,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.0,
     "ingredients": [
@@ -8216,7 +8215,7 @@
       "acne-prone"
     ],
     "price": 30.89,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 3.7,
     "ingredients": [
@@ -8237,7 +8236,7 @@
       "combination"
     ],
     "price": 34.36,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 5.0,
     "ingredients": [
@@ -8255,7 +8254,7 @@
       "acne-prone"
     ],
     "price": 56.97,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.6,
     "ingredients": [
@@ -8275,7 +8274,7 @@
       "sensitive"
     ],
     "price": 63.34,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.7,
     "ingredients": [
@@ -8296,7 +8295,7 @@
       "sensitive"
     ],
     "price": 47.55,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.7,
     "ingredients": [
@@ -8314,7 +8313,7 @@
       "normal"
     ],
     "price": 12.33,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.9,
     "ingredients": [
@@ -8335,7 +8334,7 @@
       "normal"
     ],
     "price": 13.48,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.2,
     "ingredients": [
@@ -8354,7 +8353,7 @@
       "dry"
     ],
     "price": 12.74,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.8,
     "ingredients": [
@@ -8372,7 +8371,7 @@
       "normal"
     ],
     "price": 35.4,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 5.0,
     "ingredients": [
@@ -8391,7 +8390,7 @@
       "combination"
     ],
     "price": 55.64,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 3.6,
     "ingredients": [
@@ -8410,7 +8409,7 @@
       "oily"
     ],
     "price": 18.22,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.1,
     "ingredients": [
@@ -8427,7 +8426,7 @@
       "oily"
     ],
     "price": 14.63,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.8,
     "ingredients": [
@@ -8447,7 +8446,7 @@
       "normal"
     ],
     "price": 38.23,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.3,
     "ingredients": [
@@ -8466,7 +8465,7 @@
       "combination"
     ],
     "price": 63.01,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 4.9,
     "ingredients": [
@@ -8488,7 +8487,7 @@
       "dry"
     ],
     "price": 44.95,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 3.8,
     "ingredients": [
@@ -8508,7 +8507,7 @@
       "dry"
     ],
     "price": 35.87,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.7,
     "ingredients": [
@@ -8527,7 +8526,7 @@
       "combination"
     ],
     "price": 54.53,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.0,
     "ingredients": [
@@ -8549,7 +8548,7 @@
       "normal"
     ],
     "price": 18.79,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.3,
     "ingredients": [
@@ -8568,7 +8567,7 @@
       "normal"
     ],
     "price": 31.67,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.4,
     "ingredients": [
@@ -8588,7 +8587,7 @@
       "dry"
     ],
     "price": 31.91,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.2,
     "ingredients": [
@@ -8606,7 +8605,7 @@
       "normal"
     ],
     "price": 8.4,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.8,
     "ingredients": [
@@ -8625,7 +8624,7 @@
       "oily"
     ],
     "price": 40.23,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.3,
     "ingredients": [
@@ -8646,7 +8645,7 @@
       "oily"
     ],
     "price": 44.08,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.6,
     "ingredients": [
@@ -8668,7 +8667,7 @@
       "sensitive"
     ],
     "price": 41.91,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.3,
     "ingredients": [
@@ -8687,7 +8686,7 @@
       "dry"
     ],
     "price": 39.86,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 3.6,
     "ingredients": [
@@ -8706,7 +8705,7 @@
       "combination"
     ],
     "price": 14.31,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 3.7,
     "ingredients": [
@@ -8727,7 +8726,7 @@
       "dry"
     ],
     "price": 20.18,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.3,
     "ingredients": [
@@ -8748,7 +8747,7 @@
       "combination"
     ],
     "price": 59.2,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.0,
     "ingredients": [
@@ -8765,7 +8764,7 @@
       "acne-prone"
     ],
     "price": 32.81,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.6,
     "ingredients": [
@@ -8786,7 +8785,7 @@
       "sensitive"
     ],
     "price": 24.64,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 3.9,
     "ingredients": [
@@ -8805,7 +8804,7 @@
       "combination"
     ],
     "price": 18.81,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 3.8,
     "ingredients": [
@@ -8824,7 +8823,7 @@
       "acne-prone"
     ],
     "price": 39.14,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 3.7,
     "ingredients": [
@@ -8844,7 +8843,7 @@
       "combination"
     ],
     "price": 56.3,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.7,
     "ingredients": [
@@ -8866,7 +8865,7 @@
       "sensitive"
     ],
     "price": 52.76,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.1,
     "ingredients": [
@@ -8886,7 +8885,7 @@
       "normal"
     ],
     "price": 49.3,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.4,
     "ingredients": [
@@ -8906,7 +8905,7 @@
       "dry"
     ],
     "price": 58.0,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.7,
     "ingredients": [
@@ -8927,7 +8926,7 @@
       "dry"
     ],
     "price": 31.63,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.4,
     "ingredients": [
@@ -8946,7 +8945,7 @@
       "sensitive"
     ],
     "price": 28.03,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.0,
     "ingredients": [
@@ -8965,7 +8964,7 @@
       "oily"
     ],
     "price": 55.29,
-    "image": "https://source.unsplash.com/featured/?bronzer",
+    "image": "/images/bronzer.png",
     "description": "Gives a sun-kissed warmth.",
     "rating": 4.0,
     "ingredients": [
@@ -8985,7 +8984,7 @@
       "normal"
     ],
     "price": 29.77,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.2,
     "ingredients": [
@@ -9002,7 +9001,7 @@
       "dry"
     ],
     "price": 59.07,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 4.3,
     "ingredients": [
@@ -9021,7 +9020,7 @@
       "dry"
     ],
     "price": 35.05,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 3.8,
     "ingredients": [
@@ -9040,7 +9039,7 @@
       "normal"
     ],
     "price": 28.97,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 3.8,
     "ingredients": [
@@ -9057,7 +9056,7 @@
       "acne-prone"
     ],
     "price": 50.9,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 3.7,
     "ingredients": [
@@ -9077,7 +9076,7 @@
       "sensitive"
     ],
     "price": 46.26,
-    "image": "https://source.unsplash.com/featured/?mascara",
+    "image": "/images/mascara.png",
     "description": "Volumizing formula for longer lashes.",
     "rating": 3.7,
     "ingredients": [
@@ -9097,7 +9096,7 @@
       "dry"
     ],
     "price": 21.29,
-    "image": "https://source.unsplash.com/featured/?exfoliator",
+    "image": "/images/exfoliator.png",
     "description": "Removes dead skin cells.",
     "rating": 4.8,
     "ingredients": [
@@ -9117,7 +9116,7 @@
       "sensitive"
     ],
     "price": 24.35,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.7,
     "ingredients": [
@@ -9136,7 +9135,7 @@
       "oily"
     ],
     "price": 10.53,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.4,
     "ingredients": [
@@ -9157,7 +9156,7 @@
       "combination"
     ],
     "price": 52.27,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 3.6,
     "ingredients": [
@@ -9178,7 +9177,7 @@
       "combination"
     ],
     "price": 30.83,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 4.5,
     "ingredients": [
@@ -9197,7 +9196,7 @@
       "sensitive"
     ],
     "price": 11.21,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.0,
     "ingredients": [
@@ -9218,7 +9217,7 @@
       "oily"
     ],
     "price": 28.77,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 4.7,
     "ingredients": [
@@ -9239,7 +9238,7 @@
       "oily"
     ],
     "price": 18.41,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 3.6,
     "ingredients": [
@@ -9260,7 +9259,7 @@
       "dry"
     ],
     "price": 47.54,
-    "image": "https://source.unsplash.com/featured/?blush",
+    "image": "/images/blush.png",
     "description": "Adds a natural flush to your cheeks.",
     "rating": 4.7,
     "ingredients": [
@@ -9278,7 +9277,7 @@
       "oily"
     ],
     "price": 54.64,
-    "image": "https://source.unsplash.com/featured/?highlighter",
+    "image": "/images/highlighter.png",
     "description": "Glow-enhancing shimmer.",
     "rating": 4.4,
     "ingredients": [
@@ -9296,7 +9295,7 @@
       "sensitive"
     ],
     "price": 16.33,
-    "image": "https://source.unsplash.com/featured/?eyeshadow",
+    "image": "/images/eyeshadow.png",
     "description": "Vibrant colors for every mood.",
     "rating": 4.7,
     "ingredients": [
@@ -9317,7 +9316,7 @@
       "sensitive"
     ],
     "price": 54.38,
-    "image": "https://source.unsplash.com/featured/?faceoil",
+    "image": "/images/faceoil.png",
     "description": "Nourishes and revitalizes skin.",
     "rating": 4.3,
     "ingredients": [
@@ -9335,7 +9334,7 @@
       "combination"
     ],
     "price": 55.14,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.1,
     "ingredients": [
@@ -9353,7 +9352,7 @@
       "dry"
     ],
     "price": 40.38,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.0,
     "ingredients": [
@@ -9372,7 +9371,7 @@
       "sensitive"
     ],
     "price": 48.88,
-    "image": "https://source.unsplash.com/featured/?settingspray",
+    "image": "/images/settingspray.png",
     "description": "Keeps makeup in place all day.",
     "rating": 4.6,
     "ingredients": [
@@ -9391,7 +9390,7 @@
       "normal"
     ],
     "price": 24.66,
-    "image": "https://source.unsplash.com/featured/?lipstick",
+    "image": "/images/lipstick.png",
     "description": "Rich pigment and hydration in one swipe.",
     "rating": 4.4,
     "ingredients": [
@@ -9410,7 +9409,7 @@
       "normal"
     ],
     "price": 63.39,
-    "image": "https://source.unsplash.com/featured/?claymask",
+    "image": "/images/claymask.png",
     "description": "Purifies and tightens skin.",
     "rating": 4.1,
     "ingredients": [
@@ -9430,7 +9429,7 @@
       "sensitive"
     ],
     "price": 32.41,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.3,
     "ingredients": [
@@ -9447,7 +9446,7 @@
       "dry"
     ],
     "price": 44.15,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.5,
     "ingredients": [
@@ -9469,7 +9468,7 @@
       "acne-prone"
     ],
     "price": 64.92,
-    "image": "https://source.unsplash.com/featured/?lipgloss",
+    "image": "/images/lipgloss.png",
     "description": "High-shine, non-sticky finish.",
     "rating": 4.7,
     "ingredients": [
@@ -9486,7 +9485,7 @@
       "acne-prone"
     ],
     "price": 45.15,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.9,
     "ingredients": [
@@ -9503,7 +9502,7 @@
       "sensitive"
     ],
     "price": 52.37,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.4,
     "ingredients": [
@@ -9523,7 +9522,7 @@
       "acne-prone"
     ],
     "price": 20.5,
-    "image": "https://source.unsplash.com/featured/?concealer",
+    "image": "/images/concealer.png",
     "description": "Covers blemishes and dark circles.",
     "rating": 3.6,
     "ingredients": [
@@ -9543,7 +9542,7 @@
       "acne-prone"
     ],
     "price": 39.27,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.1,
     "ingredients": [
@@ -9562,7 +9561,7 @@
       "sensitive"
     ],
     "price": 34.92,
-    "image": "https://source.unsplash.com/featured/?facemist",
+    "image": "/images/facemist.png",
     "description": "Instant hydration boost.",
     "rating": 3.8,
     "ingredients": [
@@ -9579,7 +9578,7 @@
       "acne-prone"
     ],
     "price": 60.69,
-    "image": "https://source.unsplash.com/featured/?toner",
+    "image": "/images/toner.png",
     "description": "Balances skin pH and tightens pores.",
     "rating": 4.3,
     "ingredients": [
@@ -9599,7 +9598,7 @@
       "acne-prone"
     ],
     "price": 47.55,
-    "image": "https://source.unsplash.com/featured/?serum",
+    "image": "/images/serum.png",
     "description": "Targets specific skin concerns.",
     "rating": 4.6,
     "ingredients": [
@@ -9618,7 +9617,7 @@
       "oily"
     ],
     "price": 42.43,
-    "image": "https://source.unsplash.com/featured/?moisturizer",
+    "image": "/images/moisturizer.png",
     "description": "Deeply hydrates and soothes skin.",
     "rating": 4.5,
     "ingredients": [
@@ -9638,7 +9637,7 @@
       "oily"
     ],
     "price": 20.91,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.2,
     "ingredients": [
@@ -9657,7 +9656,7 @@
       "normal"
     ],
     "price": 35.64,
-    "image": "https://source.unsplash.com/featured/?sunscreen",
+    "image": "/images/sunscreen.png",
     "description": "Broad spectrum SPF protection.",
     "rating": 5.0,
     "ingredients": [
@@ -9677,7 +9676,7 @@
       "combination"
     ],
     "price": 51.05,
-    "image": "https://source.unsplash.com/featured/?foundation",
+    "image": "/images/foundation.png",
     "description": "Buildable coverage that lasts all day.",
     "rating": 4.0,
     "ingredients": [
@@ -9697,7 +9696,7 @@
       "normal"
     ],
     "price": 41.47,
-    "image": "https://source.unsplash.com/featured/?cleanser",
+    "image": "/images/cleanser.png",
     "description": "Removes dirt and excess oil.",
     "rating": 4.1,
     "ingredients": [
@@ -9717,7 +9716,7 @@
       "oily"
     ],
     "price": 31.0,
-    "image": "https://source.unsplash.com/featured/?eyecream",
+    "image": "/images/eyecream.png",
     "description": "Reduces puffiness and dark circles.",
     "rating": 4.3,
     "ingredients": [

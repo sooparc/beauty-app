@@ -14,7 +14,8 @@ import Select, { SelectChangeEvent } from '@mui/material/Select';
 
 const Collection = () => {
   const [products, setProducts] = useState([]);
-  const [category, setCategory] = React.useState('');
+  const [category, setCategory] = useState('');
+  const [selectedSkinType, setSelectedSkinType] = useState('');
 
   const foundation = products.find(p => p.productType === "Foundation");
   const sunscreen = products.find(p => p.productType === "Sunscreen");
@@ -67,7 +68,7 @@ const Collection = () => {
               onChange={handleChange}
             >
               {productTypes.map((type, index) => (
-                <MenuItem key={type} value={(index + 1) * 10}>
+                <MenuItem key={type} value={type}>
                   {type}
                 </MenuItem>
               ))}
@@ -75,78 +76,96 @@ const Collection = () => {
           </FormControl>
 
           <List sx={{ width: '100%', maxWidth: 500, bgcolor: 'background.paper' }}>
-            {products.slice(0, 3).map((product, index) => (
-              <React.Fragment key={product.id || index}>
-                <ListItem alignItems="flex-start">
-                  <ListItemAvatar>
-                    <img
-                      src={`http://localhost:8000${product.image}`}
-                      alt={product.name}
-                      className="collection-round-image"
+            {(category
+                ? products.filter(p => p.productType === category)
+                : products
+              )
+                .slice(0, 3)
+                .map((product, index) => ( 
+                <React.Fragment key={product.id || index}>
+                  <ListItem alignItems="flex-start">
+                    <ListItemAvatar>
+                      <img
+                        src={`http://localhost:8000${product.image}`}
+                        alt={product.name}
+                        className="collection-round-image"
+                      />
+                    </ListItemAvatar>
+                    <ListItemText
+                      primary={product.name}
+                      secondary={
+                        <React.Fragment>
+                          <Typography
+                            component="span"
+                            variant="body2"
+                            sx={{ color: 'text.primary', display: 'inline' }}
+                          >
+                            {product.brand}
+                          </Typography>
+                          {" — " + product.description}
+                        </React.Fragment>
+                      }
                     />
-                  </ListItemAvatar>
-                  <ListItemText
-                    primary={product.name}
-                    secondary={
-                      <React.Fragment>
-                        <Typography
-                          component="span"
-                          variant="body2"
-                          sx={{ color: 'text.primary', display: 'inline' }}
-                        >
-                          {product.brand}
-                        </Typography>
-                        {" — " + product.description}
-                      </React.Fragment>
-                    }
-                  />
-                </ListItem>
-                {index < products.length - 1 && <Divider variant="inset" component="li" />}
-              </React.Fragment>
-            ))}
+                  </ListItem>
+                  {index < 2 && <Divider variant="inset" component="li" />}
+                </React.Fragment>
+              ))}
           </List>
         </div>
 
         <div className="collection-container">
           <div className="collection-heading">By Skin Type</div> 
           <div className="collection-button-container">
-            <Button variant="outlined" size="small" className="collection-button">Dry</Button>
-            <Button variant="outlined" size="small" className="collection-button">Oily</Button>
-            <Button variant="outlined" size="small" className="collection-button">Combination</Button>
-            <Button variant="outlined" size="small" className="collection-button">Sensitive</Button>
-            <Button variant="outlined" size="small" className="collection-button">Acne-Prone</Button>
+            {["dry", "oily", "combination", "sensitive", "acne-prone"].map((type) => (
+              <Button
+                key={type}
+                variant="outlined"
+                size="small"
+                className="collection-button"
+                onClick={() => setSelectedSkinType(type)}
+              >
+                {type}
+              </Button>
+            ))}
           </div>
 
           <List sx={{ width: '100%', maxWidth: 500, bgcolor: 'background.paper' }}>
-            {products.slice(0, 3).map((product, index) => (
-              <React.Fragment key={product.id || index}>
-                <ListItem alignItems="flex-start">
-                  <ListItemAvatar>
-                    <img
-                      src={`http://localhost:8000${product.image}`}
-                      alt={product.name}
-                      className="collection-round-image"
+            {(selectedSkinType
+              ? products.filter(product =>
+                  product.skinTypes && product.skinTypes.includes(selectedSkinType)
+                )
+              : products
+            )
+              .slice(0, 3)
+              .map((product, index) => (
+                <React.Fragment key={product.id || index}>
+                  <ListItem alignItems="flex-start">
+                    <ListItemAvatar>
+                      <img
+                        src={`http://localhost:8000${product.image}`}
+                        alt={product.name}
+                        className="collection-round-image"
+                      />
+                    </ListItemAvatar>
+                    <ListItemText
+                      primary={product.name}
+                      secondary={
+                        <React.Fragment>
+                          <Typography
+                            component="span"
+                            variant="body2"
+                            sx={{ color: 'text.primary', display: 'inline' }}
+                          >
+                            {product.brand}
+                          </Typography>
+                          {" — " + product.description}
+                        </React.Fragment>
+                      }
                     />
-                  </ListItemAvatar>
-                  <ListItemText
-                    primary={product.name}
-                    secondary={
-                      <React.Fragment>
-                        <Typography
-                          component="span"
-                          variant="body2"
-                          sx={{ color: 'text.primary', display: 'inline' }}
-                        >
-                          {product.brand}
-                        </Typography>
-                        {" — " + product.description}
-                      </React.Fragment>
-                    }
-                  />
-                </ListItem>
-                {index < products.length - 1 && <Divider variant="inset" component="li" />}
-              </React.Fragment>
-            ))}
+                  </ListItem>
+                  {index < products.length - 1 && <Divider variant="inset" component="li" />}
+                </React.Fragment>
+              ))}
           </List>
         </div>
     </section>
